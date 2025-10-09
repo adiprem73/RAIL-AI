@@ -1,0 +1,4 @@
+code,name,stockyard_code,location,latitude,longitude,sidings,max_rake_length,products_handled_json
+LP001,Bokaro LP1,SY001,Bokaro,23.6693,85.9630,3,58,"[""COAL"", ""IRON_ORE"", ""STEEL""]"
+LP002,Rourkela LP1,SY002,Rourkela,22.2604,84.8536,2,58,"[""COAL"", ""IRON_ORE""]"
+LP003,Bhilai LP1,SY003,Bhilai,21.2094,81.4313,3,58,"[""COAL"", ""STEEL""]"

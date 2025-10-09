@@ -1,0 +1,4 @@
+code,name,density,handling_time
+COAL,Coal,1.4,2.5
+IRON_ORE,Iron Ore,2.5,3.0
+STEEL,Steel Coils,7.8,4.0

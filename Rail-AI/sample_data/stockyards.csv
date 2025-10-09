@@ -1,0 +1,4 @@
+code,name,location,latitude,longitude,capacity_tonnes,current_inventory_json
+SY001,Bokaro Stockyard,Bokaro Steel Plant,23.6693,85.9630,50000,"{""COAL"": 25000, ""IRON_ORE"": 15000, ""STEEL"": 8000}"
+SY002,Rourkela Stockyard,Rourkela,22.2604,84.8536,40000,"{""COAL"": 18000, ""IRON_ORE"": 20000}"
+SY003,Bhilai Stockyard,Bhilai,21.2094,81.4313,45000,"{""COAL"": 22000, ""STEEL"": 12000}"

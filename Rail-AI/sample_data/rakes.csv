@@ -1,0 +1,6 @@
+rake_number,wagon_type_code,num_wagons,total_capacity_tonnes,status,current_location,availability_date
+RK001,BOXN,58,3480,available,Bokaro,2025-10-09T00:00:00
+RK002,BOXN,58,3480,available,Rourkela,2025-10-09T00:00:00
+RK003,BCNA,55,3025,available,Bhilai,2025-10-09T00:00:00
+RK004,BOXN,58,3480,available,Bokaro,2025-10-10T00:00:00
+RK005,BOX,58,3364,available,Rourkela,2025-10-10T00:00:00
