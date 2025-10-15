@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Play, Settings, Info } from 'lucide-react';
+import { Play, Info } from 'lucide-react';
 import { api } from '../services/api';
 import type { PlanningJob } from '../types';
 

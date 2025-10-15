@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { CheckCircle, MessageSquare, Download, ArrowLeft } from 'lucide-react';
+import { CheckCircle, MessageSquare, ArrowLeft } from 'lucide-react';
 import { api } from '../services/api';
 import type { Plan } from '../types';
 
